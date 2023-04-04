@@ -1,0 +1,24 @@
+.wrapper {
+    margin: 5px;
+    background-color: #ccc;
+}
+.heading {
+    color: #003c67;
+}
+.wrapper__header-heading {
+    padding-left: 5px;
+}
+.wrapper__navbar {
+    background-color: #333;
+}
+.nav-link:hover {
+    background-color: #008c22;
+}
+.aside {
+    background-color: #e0e0e0;
+    margin: -12px;
+
+}
+.nav-item {
+    border-right: 2px solid white;
+}
