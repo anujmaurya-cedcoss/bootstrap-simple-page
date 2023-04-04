@@ -16,7 +16,8 @@
 }
 .aside {
     background-color: #e0e0e0;
-    margin: -12px;
+    margin: -11px;
+    padding-left: 1px;
 
 }
 .nav-item {
